@@ -1,4 +1,4 @@
 # sentiment model
 
-streamlit link : 
-use above link to check sentiment of text
+streamlit link : https://sentiment-of-text.streamlit.app/
+#use above link to check sentiment of text
